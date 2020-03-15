@@ -1,6 +1,6 @@
 # push_notification_admin
 
-An Admin application to demonstrate push notification using firebase.
+An Admin application written in flutter with BLoC architecture to demonstrate push notification using firebase.
 
 ## Getting Started
 
